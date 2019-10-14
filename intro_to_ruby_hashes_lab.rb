@@ -11,8 +11,7 @@ def monopoly_with_second_tier
   # complexity.
   monopoly={
     :railroads=>{
-      :pieces=>4,
-      :rent_in_dollars=>10
+      :pieces=>4
       }
     }
 end
